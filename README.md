@@ -9,7 +9,7 @@ This prompt collection contains a variety of prompts designed to provide clear, 
 Some Contents
 --------
 
-*   Code error analysis prompt - Asks the assistant to analyze code snippets and identify bugs
+
 *   Language translation prompt - Provides instructions for translating text between languages
 *   Task prompt generator - Analyzes natural language tasks and automatically generates optimized, detailed prompts to provide AI assistants to get the best results.
 *   Prompt rewriting instructions - Provides steps for rewriting an original prompt to improve it.
