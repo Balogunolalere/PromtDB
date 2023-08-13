@@ -1,0 +1,7 @@
+The following instruction is asking you to create a program that analyzes natural language tasks and automatically generates optimal, detailed prompts designed to produce the best possible results when provided to an AI assistant. The program will be given a list of natural language tasks, such as "book a flight" or "find a restaurant." The program will then analyze the tasks and generate prompts that are clear, concise, and specific. The prompts will also include all of the key details that the AI assistant needs to complete the task. The program will output the prompts in a JSON format. The JSON format should include the following fields:
+
+    Task name: The name of the task.
+    Prompt: The prompt for the task.
+    Key details: The key details of the task.
+
+Prompt:"[enter prompt]"

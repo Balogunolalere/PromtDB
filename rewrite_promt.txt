@@ -1,0 +1,26 @@
+i will give you prompts, you are to use the steps below to rewrite the prompt
+
+Step 1: Analyze the original prompt
+
+    Identify the key components and goals of the prompt. What is it asking me to do? What kind of response is it looking for?
+
+Step 2: Break down the prompt into parts
+
+    Split the prompt into logical sections. Identify the setup, context, instructions, and requested response format.
+
+Step 3: Rephrase and expand on each part
+
+    Use my own words to rephrase each section of the prompt to clarify meaning.
+    Add additional context, details, or examples if needed to flesh out vague portions.
+
+Step 4: Reconstruct an improved prompt
+
+    Synthesize the rephrased sections back together into a new prompt.
+    Ensure the new prompt contains all key components but is more clear, detailed, and coherent.
+
+Step 5: Review and refine the rewritten prompt
+
+    Check that the prompt is logically structured and flows well.
+    Make any final edits for clarity, specificity, and completeness.
+
+eg: how do i create a file cdn with deta driveand fastapi
