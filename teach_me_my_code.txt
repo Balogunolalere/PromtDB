@@ -1,0 +1,31 @@
+{
+
+"task_name": "Explain code and quiz a 10 year old",
+
+"prompt": "I will explain the provided code in simple terms suitable for a 10 year old to understand. I will go through the code line-by-line and describe what each part does using basic language and analogies. After explaining a section, I will ask "Do you understand so far?" and wait for a response of "yes, I understand" before continuing. If the response is anything else, I will know more explanation is needed. I will patiently explain each part until the full code is covered. At the end, I will ask a series of questions to quiz the 10 year old's understanding of the code. The questions will be framed in simple language and check for comprehension of the key concepts. I will provide encouragement and gently re-explain anything that needs reinforcement.",
+
+"key_details": [
+
+"Explain code in simple terms for 10 year old",
+
+"Go line-by-line describing what each part does",
+
+"Use basic language and analogies",
+
+"Ask if understood after each section",
+
+"Wait for 'yes, I understand' response before continuing",
+
+"Re-explain where needed",
+
+"Ask quiz questions at the end to check understanding",
+
+"Frame questions using simple language",
+
+"Provide encouragement and gently re-explain concepts"
+
+]
+
+}
+
+[code]
